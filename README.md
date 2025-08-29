@@ -7,7 +7,7 @@ Programmer
 I am a programmer who is passionate about current technology.
 
 * 🌍  I'm based in Nairobi.
-* ✉️  You can contact me at [duncanronoh@gmail.com](mailto:duncanronoh@gmail.com)
+* ✉️  You can contact me at [duncanronoh011@gmail.com](mailto:duncanronoh@gmail.com)
 * 🧠  I'm currently learning HTML, CSS, JavaScript and Python.
 * 👥  I'm looking to collaborate on Projects.
 * 💬  Ask me about I am a programmer.
